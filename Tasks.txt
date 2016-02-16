@@ -1,0 +1,9 @@
+Tasks
+
+ + Level Design
+ + Add room descriptions
+ + Create new monsters
+ + Add more stats to player and enemies
+ + Create boss
+ + Allow saving and loading
+ + Allow color schemes

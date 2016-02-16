@@ -1,0 +1,9 @@
+Initialization Order
+
+ - id
+ - index
+ - title
+ - numrooms
+ - default collision description
+ - room descriptions
+ - (construct)

@@ -1,0 +1,6 @@
+Enemy types
+
+ + Human
+ + Monster
+ + Mech
+ + Mage

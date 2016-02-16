@@ -1,0 +1,11 @@
+Name: Kameko
+Desc: The girl that Olimar first meets in the Meeting Room.
+
+Name: Cha
+Desc: The boss mage in Mage World.
+
+Name: Olimar
+Desc: The main character in the story (duh!)
+
+Name: Miggle
+Desc: One of the prisoners in a Cell Shack.
