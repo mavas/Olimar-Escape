@@ -1,5 +1,4 @@
 // *********************************************************************
-// Programming: David Kilgore
 // Project: Olimar's Escape.exe
 // Project desc: A text-based RPG for the PC.
 // File: Engine.h
