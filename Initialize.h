@@ -1,5 +1,4 @@
 // *********************************************************************
-// Programming: mavas
 // Project: Olimar's Escape.exe
 // Project desc: A text-based RPG for the PC.
 // File: Initialize.h
